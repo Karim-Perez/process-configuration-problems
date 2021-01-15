@@ -1,0 +1,22 @@
+White border ratio: 0.33;
+Color code ratio: 0.3;
+Demand ratio: 0.4;
+Number of slots: 7;
+Number of designs: 12;
+Number of customer-specific designs: 10;
+Number of standard designs: 2;
+Setup costs: 540;
+Max number of different color codes: 2;
+ID, Color, White border, Standard, Overproduction costs, Demand:
+1, 1, 0, 0, 0.0035, 52000;
+2, 2, 0, 0, 0.0035, 14500;
+3, 2, 1, 0, 0.0035, 33000;
+4, 2, 0, 0, 0.0035, 52000;
+5, 2, 1, 0, 0.0035, 70500;
+6, 1, 1, 0, 0.0035, 52000;
+7, 1, 1, 0, 0.0035, 70500;
+8, 2, 0, 0, 0.0035, 52000;
+9, 1, 0, 0, 0.0035, 14500;
+10, 1, 1, 0, 0.0035, 33000;
+11, 1, 0, 1, 0.001, 0;
+12, 2, 0, 1, 0.001, 0;
