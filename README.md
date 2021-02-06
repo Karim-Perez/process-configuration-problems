@@ -5,7 +5,7 @@ This repository contains the benchmark instances and detailed results for the in
   * Baumann, P., Forrer, S., Trautmann, N. (2015): *Planning of a make-to-order production process in the printing industry*. Flexible Services and Manufacturing Journal 27, 534-560. 
   * Baumann P, Trautmann N (2014) *Efficient symmetry-breaking formulations for grouping customer orders in a printing shop*. 2014 IEEE International Conference on Industrial Engineering and Engineering Management, 506- 510. 
 
-  The original data for this problem can be found in the repository created by the original authors at [https://github.com/phil85/FSMJ15-Instances](https://github.com/phil85/FSMJ15-Instances). For convenience, we have also include this data in  the folder `PrintingProblem` with a self-explanatory format.
+  The original data for this problem can be found in the repository created by the original authors at [https://github.com/phil85/FSMJ15-Instances](https://github.com/phil85/FSMJ15-Instances). For convenience, we have included this data in the folder `PrintingProblem` with a self-explanatory format.
 
 * **Optimization problems in the steel tube industry**. The problem variants and the benchmark instances considered in this applications correspond to 50 randomly generated instances and the ones presented in the paper:
   * Hajizadeh I, Lee C (2007) *Alternative configurations for cutting machines in a tube cutting mill*. European Journal of Operational Research 183(3):1385-1396.
