@@ -1,9 +1,0 @@
-(integer scalar) # of products types (T)
-(integer scalar) # of maximum cutting patterns (P)
-(float scalar) cost of a single stroke of the cutting machine
-(float scalar) cost of setup (changing the pattern)
-(float scalar) length of the cutting machine (mm)
-(float row array of size T) length of each product type (mm)
-(integer row array of size T) demand of each product type (mm)
-
-For the Knife-dependent cutting stock variant, the additional setup cost is 0.5 per knife used in each pattern. 
